@@ -1,0 +1,7 @@
+package com.sanskar.test;
+
+public class BitwiseOperators {
+    public static void main(String[] args) {
+        System.out.println("Hello");
+    }
+}
